@@ -1,8 +1,16 @@
 - 👋 Hi, I’m Marco Aurelio Antunes Junior
-- 👀 I’m interested in web develop
-- 🌱 I’m currently learning ReactJs
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on everthing i can
 - 📫 How to reach me marcoantunesdev@gmail.com
+
+-Portugues
+
+- 👋 Olá, me chamo Marco Aurelio Antunes Junior
+- 👀 Estou interessado em Web Develop
+- 🌱 Atualmente estou aprendendo ReactJS
+- 💞️ Procuro colaborar em tudo que posso
+- 📫 Pode me encontrar no email marcoantunesdev@gmail.com
 
 <!---
 MarcoAntunes37/MarcoAntunes37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
