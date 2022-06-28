@@ -1,14 +1,14 @@
 - 👋 Hi, I’m Marco Aurelio Antunes Junior
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on everthing i can
 - 📫 How to reach me marcoantunesdev@gmail.com
 
 -Portugues
 
 - 👋 Olá, me chamo Marco Aurelio Antunes Junior
-- 👀 Estou interessado em Web Develop
-- 🌱 Atualmente estou aprendendo ReactJS
+- 👀 Estou interessado em Desenvolvimento Web
+- 🌱 Atualmente estou aprendendo Typescript
 - 💞️ Procuro colaborar em tudo que posso
 - 📫 Pode me encontrar no email marcoantunesdev@gmail.com
 
