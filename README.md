@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marco Aurelio Antunes Junior
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Docker and Angular
 - 💞️ I’m looking to collaborate on everthing i can
 - 📫 How to reach me marcoantunesdev@gmail.com
 
@@ -8,7 +8,7 @@
 
 - 👋 Olá, me chamo Marco Aurelio Antunes Junior
 - 👀 Estou interessado em Desenvolvimento Web
-- 🌱 Atualmente estou aprendendo Typescript
+- 🌱 Atualmente estou aprendendo Docker e Angular
 - 💞️ Procuro colaborar em tudo que posso
 - 📫 Pode me encontrar no email marcoantunesdev@gmail.com
 
