@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marco Aurelio Antunes Junior
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Spring Framework, Postgreesql
+- 🌱 I’m currently learning Flutter & Design Patterns
 - 💞️ I’m looking to collaborate on everthing i can
 - 📫 How to reach me marcoantunesdev@gmail.com
 
@@ -8,7 +8,7 @@
 
 - 👋 Olá, me chamo Marco Aurelio Antunes Junior
 - 👀 Estou interessado em Desenvolvimento Web
-- 🌱 Atualmente estou aprendendo Spring Framework, Postgreesql
+- 🌱 Atualmente estou aprendendo Flutter & Design Patterns
 - 💞️ Procuro colaborar em tudo que posso
 - 📫 Pode me encontrar no email marcoantunesdev@gmail.com
 
