@@ -1,14 +1,14 @@
 - 👋 Hi, I’m Marco Aurelio Antunes Junior
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Docker and Angular
+- 🌱 I’m currently learning Spring Framework, Postgreesql
 - 💞️ I’m looking to collaborate on everthing i can
 - 📫 How to reach me marcoantunesdev@gmail.com
 
--Portugues
+-----------------------------------------------------
 
 - 👋 Olá, me chamo Marco Aurelio Antunes Junior
 - 👀 Estou interessado em Desenvolvimento Web
-- 🌱 Atualmente estou aprendendo Docker e Angular
+- 🌱 Atualmente estou aprendendo Spring Framework, Postgreesql
 - 💞️ Procuro colaborar em tudo que posso
 - 📫 Pode me encontrar no email marcoantunesdev@gmail.com
 
