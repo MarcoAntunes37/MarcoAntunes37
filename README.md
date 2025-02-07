@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marco Aurélio Antunes Junior</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [RedditClone](https://github.com/MarcoAntunes37/RedditClone)
+- 🔭 I’m currently working on [Taxi-app](https://github.com/MarcoAntunes37/taxi-app)
 
 - 🌱 I’m currently learning **Clean code and arquitectures**
 
