@@ -1,6 +1,7 @@
 ## 👋 Hello,  my name is Marco Aurélio!
 
 👨‍💻Check my last project:
+<br>
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoAntunes37&repo=taxi-app&show_icons=true&theme=dark)](https://github.com/MarcoAntunes37/taxi-app)
 
 💭 If you wanna talk about something or wanna collaborate with me you can contact me by email ✉️ marcoantunesdev@gmail.com
