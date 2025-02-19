@@ -1,4 +1,4 @@
-## 👋 Hello,  my name is Marco Aurélio!
+## 👋 Hello,  my name is Marco Aurelio!
 
 👨‍💻Check my last project:
 <br>
