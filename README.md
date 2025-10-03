@@ -2,7 +2,7 @@
 
 👨‍💻Check my last project:
 <br>
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoAntunes37&repo=TaskScheduler&show_icons=true&theme=dark)](https://github.com/MarcoAntunes37/TaskScheduler)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoAntunes37&repo=web-vagas&show_icons=true&theme=dark)](https://github.com/MarcoAntunes37/web-vagas)
 
 💭 If you wanna talk about something or wanna collaborate with me you can contact me by email ✉️ marcoantunesdev@gmail.com
 
